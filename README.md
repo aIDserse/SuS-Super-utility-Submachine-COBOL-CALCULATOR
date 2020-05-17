@@ -7,5 +7,5 @@ I added some nice effects, that shows "computing....." when it does a calculatio
 Version before 1.2 displays only rad, not degrees!.
 Since version 1.2 there is English Translation!
 With version 1.2 the calculator has commas and signs!
-There will be other4 updates in a not so soon future, but for now the project is complete
+There will be other updates in a not so soon future, but for now the project is complete
 If you want you can use my code for inspiration :).
