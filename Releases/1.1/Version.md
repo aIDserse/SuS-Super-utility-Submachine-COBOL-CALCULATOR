@@ -1,4 +1,4 @@
-VERSION 1.01
+VERSION 1.1
 It has 14 funcions, works perfectly on the ide. It compiles, but the .exe file has problems: you can try it if you want... 
 The code is only in Italian, but I'm gonna translate both versions (1.0 and 1.1) in Russian and English 
 This version has comma in results, but you still can't insert it on the numbers to evalutate
