@@ -1,5 +1,5 @@
 Final version - 2.0
-This is the last update of this project.
+This is the definitive update of this project.
 It has 14 funcions, pre-compiled version is inclueded in the "EXECUTABLES" version
 When I'll have a Mac maybye I'll give a pre-compiled version for it too
 he code is in italian and English
