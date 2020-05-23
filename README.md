@@ -9,4 +9,4 @@ With version 1.2 the calculator has commas and signs!
 With version 1.3 The calculator says "do you want do do other operations?" and if you say yes it takes you back to the choice of operations.
 Since version 2.0 (Final) During the calculations program, the calculator prints: computing..." in a distance of half a sec, making it in a more 50s way.
 A special thanks goes to Rick Smith ( https://stackoverflow.com/users/9170346/rick-smith?tab=profile ) who helped me a lot on writing the code.
-If you want you can use my code for inspiration :).
+If you want you can use the code for inspiration :)
