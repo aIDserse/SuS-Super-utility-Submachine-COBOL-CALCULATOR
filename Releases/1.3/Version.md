@@ -4,5 +4,5 @@ Now it compiles! You can download the .exe in the EXECUTABLES foldes and they wo
 The code is in italian and English now
 This version has comma, signs and brackets!
 Now, when you do an operation, it says "Do you want to do another operation?" and if you say yes it returns to the beginning
-There will be only another update (2.0) that will have russian translation and will make you wait half a sec. during the "Computing" process
+There will be only another update (2.0) that will make you wait half a sec. during the "Computing" process
 You can use my code in your project ;)
