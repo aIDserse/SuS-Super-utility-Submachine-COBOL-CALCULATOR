@@ -1,4 +1,4 @@
-#Final version - 2.0<br>
+# Final version - 2.0<br>
 This is the definitive update of this project.<br>
 It has 14 funcions, pre-compiled version is inclueded in the "EXECUTABLES" version<br>
 When I'll have a Mac maybye I'll give a pre-compiled version for it too<br>
