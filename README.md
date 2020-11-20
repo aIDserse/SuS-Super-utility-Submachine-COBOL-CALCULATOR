@@ -10,3 +10,5 @@ A special thanks goes to Rick Smith ( https://stackoverflow.com/users/9170346/ri
 Attention! To run them you need the OpenCobolIDE dlls<br>
 3rd October 2020 update! I re-written part of the english version with a better and more accurate translation:)<br>
 If you want you can use the code for inspiration :)
+# License
+The code is under WTFPL license. It's nearly like GPL, but better:))
